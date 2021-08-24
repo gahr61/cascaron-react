@@ -51,3 +51,7 @@ Thumbs.db
 *.wmv
 *.eslintcache
 .eslintcache
+
+package-lock.json
+yarn.lock
+
